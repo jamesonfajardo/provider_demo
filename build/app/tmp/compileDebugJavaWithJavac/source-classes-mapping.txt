@@ -1,4 +1,0 @@
-io/flutter/plugins/GeneratedPluginRegistrant.java
- io.flutter.plugins.GeneratedPluginRegistrant
-com/hitachi/state_management_ui/BuildConfig.java
- com.hitachi.state_management_ui.BuildConfig
